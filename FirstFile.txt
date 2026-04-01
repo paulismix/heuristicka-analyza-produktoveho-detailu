@@ -1,1 +1,2 @@
 Testovací soubor!
+Features added.

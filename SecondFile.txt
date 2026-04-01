@@ -1,1 +1,2 @@
-Druhý testovací soubor
+Druhý testovací soubor!
+Features added
